@@ -15,4 +15,7 @@ Python環境:Python3 + BeautifulSoup4
 
 如果有需要我的python虛擬環境在這裡download
 https://github.com/dearsherlock/MODScraping/blob/master/scrpingEnv.tar.gz
+做好之後上傳到google spreadsheet，如下：
+https://docs.google.com/spreadsheets/d/1YG_EA_wodDvojLJuYx_sIzaETCmQoF8mHURU3otgt5Q/edit#gid=1248905143
 
+目前比電影199粉絲團多的是『戲劇199』『紀實149』，卡通動漫我的好像也多了幾十筆，但來源都是官網啊~
