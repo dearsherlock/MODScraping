@@ -18,4 +18,6 @@ https://github.com/dearsherlock/MODScraping/blob/master/scrpingEnv.tar.gz
 做好之後上傳到google spreadsheet，如下：
 https://docs.google.com/spreadsheets/d/1YG_EA_wodDvojLJuYx_sIzaETCmQoF8mHURU3otgt5Q/edit#gid=1248905143
 
+<img src="https://farm5.staticflickr.com/4496/36822291804_b399ba9289_o.png">
+
 目前比電影199粉絲團多的是『戲劇199』『紀實149』，卡通動漫我的好像也多了幾十筆，但來源都是官網啊~
